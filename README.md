@@ -13,7 +13,8 @@ A **production-grade Machine Learning pipeline** for predicting telecom customer
 ✅ Automatic data versioning and logging  
 
 ---
+Streamlit link : https://customerchurnmlpipelinedvcmlflow-jqzis8eacgadsmsmczq4bm.streamlit.app/
+![STREAMLIT Diagram](readme_imgs/muns3.png)
 ![ML_FLOW Diagram](readme_imgs/num2.png)
 ![ML_FLOW Diagram](readme_imgs/num1.png)
-![STREAMLIT Diagram](readme_imgs/muns3.png)
 
