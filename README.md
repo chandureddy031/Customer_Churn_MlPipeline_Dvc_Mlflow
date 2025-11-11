@@ -14,6 +14,6 @@ A **production-grade Machine Learning pipeline** for predicting telecom customer
 
 ---
 
-![ML_FLOW Diagram](customer_churn\Customer_Churn_MlPipeline_Dvc_Mlflow\readme_imgs\num2.png)
-![Pipeline Diagram](customer_churn\Customer_Churn_MlPipeline_Dvc_Mlflow\readme_imgs\num1.png)
+![ML_FLOW Diagram](readme_imgs\num2.png)
+![Pipeline Diagram](readme_imgs\num1.png)
 
