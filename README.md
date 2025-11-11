@@ -1,1 +1,1 @@
-Customer Churn Prediction
+Telecom Customer Churn — Production-ready ML Pipeline Scaffold
