@@ -13,7 +13,7 @@ A **production-grade Machine Learning pipeline** for predicting telecom customer
 ✅ Automatic data versioning and logging  
 
 ---
-
-![ML_FLOW Diagram](readme_imgs\num2.png)
-![Pipeline Diagram](readme_imgs\num1.png)
+![ML_FLOW Diagram](readme_imgs/num2.png)
+![ML_FLOW Diagram](readme_imgs/num1.png)
+![STREAMLIT Diagram](readme_imgs/muns3.png)
 
