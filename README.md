@@ -1,1 +1,19 @@
-Telecom Customer Churn — Production-ready ML Pipeline Scaffold
+# 📞 Telecom Customer Churn Prediction (MLflow + DVC + Streamlit)
+
+A **production-grade Machine Learning pipeline** for predicting telecom customer churn, fully automated with **DVC**, tracked via **MLflow**, and deployed with an interactive **Streamlit dashboard**.
+
+---
+
+## 🚀 Features
+✅ End-to-end ML pipeline using DVC  
+✅ MLflow integration for experiment tracking  
+✅ Model versioning with metrics and graphs  
+✅ Streamlit dashboard for live predictions  
+✅ Confusion matrix & ROC curve visualization  
+✅ Automatic data versioning and logging  
+
+---
+
+![ML_FLOW Diagram](customer_churn\Customer_Churn_MlPipeline_Dvc_Mlflow\readme_imgs\num2.png)
+![Pipeline Diagram](customer_churn\Customer_Churn_MlPipeline_Dvc_Mlflow\readme_imgs\num1.png)
+
