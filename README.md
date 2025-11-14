@@ -34,3 +34,5 @@ The repository remains fully reproducible — you can re-run the DVC pipeline lo
 In short:
 
 🧠 DVC manages the pipeline → MLflow tracks experiments → Streamlit deploys the final model → GitHub stores the final artifacts for public access.
+
+sha256:a3489988a695a540a740314cbb6cf3bf0093298645cfecb67bd6a4ed8f9239a1
