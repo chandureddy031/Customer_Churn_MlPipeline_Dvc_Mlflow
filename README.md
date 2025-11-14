@@ -36,3 +36,10 @@ In short:
 🧠 DVC manages the pipeline → MLflow tracks experiments → Streamlit deploys the final model → GitHub stores the final artifacts for public access.
 
 sha256:a3489988a695a540a740314cbb6cf3bf0093298645cfecb67bd6a4ed8f9239a1
+
+docker run -d -p 80:8501 your-image
+docker run -d -p 80:8501 your-image   
+docker pull chandu013/churn_app:latest
+docker tag churn_app chandu013/churn_app:latest
+
+docker build -t churn_app .
